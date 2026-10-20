@@ -1,0 +1,2 @@
+# Week 3: Text Classification Models
+This repository contains the training and evaluation scripts for NLP text classification using Logistic Regression and Support Vector Machines (SVM). Evaluated using Precision, Recall, and F1-Score.
